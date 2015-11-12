@@ -1,6 +1,11 @@
 # Exploratory-Data-Analysis-Project2
 Coursera Exploratory Data Analysis - Project 2  
 
+###Notes:
+
+All plots used the 'sum totals' for each year
+Question 4 states 'coal combustion-related sources'. I The assignment also states that 'you may choose to explore whatever categories you think are most useful'. In this case I choose source 'Pulverized coal' which is similar to the example given in the assignment text.
+
 ##Assignment:
 ###Questions:
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
