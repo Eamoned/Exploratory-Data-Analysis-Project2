@@ -1,6 +1,14 @@
 # Exploratory-Data-Analysis-Project2
 Coursera Exploratory Data Analysis - Project 2  
 
+*italicised*
+2. blaa
+5. blee
+2. ding 
+
+
+
+
 ###Notes:
 
 All plots used the 'sum totals' for each year.
