@@ -2,9 +2,8 @@
 Coursera Exploratory Data Analysis - Project 2  
 
 *italicised*
-2. blaa
-5. blee
-2. ding 
+- has
+- be
 
 
 
