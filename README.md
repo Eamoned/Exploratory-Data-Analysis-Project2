@@ -1,21 +1,6 @@
 # Exploratory-Data-Analysis-Project2
 Coursera Exploratory Data Analysis - Project 2  
 
-*italicised*
-
-First line
-second line
-
-first line  
-second line
-
-hello there by by
-
-
-
-
-
-
 ###Notes:
 
 All plots used the 'sum totals' for each year.
